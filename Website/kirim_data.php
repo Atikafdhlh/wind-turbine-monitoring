@@ -4,8 +4,8 @@ date_default_timezone_set('Asia/Jakarta'); // Set PHP timezone to WIB
 
 // Database connection details
 $host = "localhost";
-$user = "u825743231_kinerjaturbina";
-$password = "Tabas1atika";
+$user = "";
+$password = "";
 $dbname = "u825743231_kinerjaturbina";
 
 // Create database connection
@@ -66,4 +66,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 // Close connection
 $conn->close();
+
 ?>
