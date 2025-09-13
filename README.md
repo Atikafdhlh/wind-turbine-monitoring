@@ -7,18 +7,18 @@ Data sensor tegangan, arus, dan daya dikirim ke database MySQL dan ditampilkan s
 wind-turbine-monitoring/
 
     ├── Website/
-    ├── index.php
-    ├── function.php
-    ├── cek.php
-    ├── default.php
-    ├── detail.php
-    ├── search.php
+    └── index.php
+    └── function.php
+    └── cek.php
+    └── default.php
+    └── detail.php
+    └── search.php
     └── kirim_data.php
     ├── Esp32/
     └── Esp32_Code.ino
     ├── ArduinoUno/
     └── ArduinoUno_Code.ino
-    └── README.md
+    ├── README.md
 
 ⚡ Fitur Utama
 
