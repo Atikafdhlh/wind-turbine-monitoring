@@ -5,23 +5,20 @@ Data sensor tegangan, arus, dan daya dikirim ke database MySQL dan ditampilkan s
 
 📂 Struktur Folder
 wind-turbine-monitoring/
-│
-├── Website/
-│   ├── index.php
-│   ├── function.php
-│   ├── cek.php
-│   ├── default.php
-│   ├── detail.php
-│   ├── search.php
-│   └── kirim_data.php
-│
-├── Esp32/
-│   └── Esp32_Code.ino
-│
-├── ArduinoUno/
-│   └── ArduinoUno_Code.ino
-│
-└── README.md
+
+    ├── Website/
+    ├── index.php
+    ├── function.php
+    ├── cek.php
+    ├── default.php
+    ├── detail.php
+    ├── search.php
+    └── kirim_data.php
+    ├── Esp32/
+    └── Esp32_Code.ino
+    ├── ArduinoUno/
+    └── ArduinoUno_Code.ino
+    └── README.md
 
 ⚡ Fitur Utama
 
@@ -44,5 +41,7 @@ Tampilan Website Monitoring
 👩‍💻 Author
 
 Atika Fadihilah Levina
+
 Proyek Tugas Akhir:
+
 “Pengukuran dan Analisis Kinerja Turbin Angin Kecepatan Rendah melalui Sistem Power Meter dan Regulator Tegangan berbasis IoT”
